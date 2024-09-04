@@ -1,0 +1,53 @@
+sudo pro attach <key>
+
+ubuntu-advantage-tools
+
+git
+curl
+wget
+net-tools
+
+caffeine-indicator
+python3
+python3-dev
+python3-pip
+pwsh
+golang
+openjdk-11-jdk
+npm
+docker.io
+docker-compose
+burpsuitepro # manual download
+maltego
+mingw-w64 # full compiler suite
+snapd
+vlc
+gimp
+audacity
+teams-for-linux # snap
+obs-studio
+musescore	# manual download
+vmware-workstation.bundle # manual download
+AzPowershell
+azurecli
+ansible
+nmap 
+ffuf
+rustscan	#snap
+nikto
+nuclei	# manual
+chaos # manual
+gobuster
+dirbuster
+ssh
+gcloud-cli
+awscli
+nordvpn 
+warpinator # manual download
+radare2
+gdb
+
+
+
+
+

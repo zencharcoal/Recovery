@@ -13,7 +13,7 @@ sudo mount /dev/sda /media/charcoal/ExtraDrive
 sudo cp /etc/fstab /etc/fstab.bak
 
 # Update /etc/fstab
-sudo sed -i 's|/mnt/pandora|/media/charcoal/ExtraDrive|' /etc/fstab
+sudo sed -i 's|/mnt/ExtraDrive|/media/charcoal/ExtraDrive|' /etc/fstab
 
 # Verify the new mount point
 sudo mount -a
